@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887415482673",
+    "project_id": "visitme-5185e",
+    "storage_bucket": "visitme-5185e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887415482673:android:429f7680caef57dbe72810",
+        "android_client_info": {
+          "package_name": "com.example.visitme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887415482673-9qabk80gju4svdj8fohuunbal4rej9q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARmnodg_5JXw6Dri27jVMl0tOETyY0ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887415482673-9qabk80gju4svdj8fohuunbal4rej9q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
